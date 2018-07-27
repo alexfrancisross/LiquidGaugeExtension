@@ -109,7 +109,7 @@
             config.waveAnimateTime = 1000;
             config.waveHeight = 0.05;
             config.waveAnimate = true;
-            config.waveRise = false;
+            config.waveRise = true;
             config.waveHeightScaling = false;
             config.waveOffset = 0.25;
             config.textSize = 0.75;
